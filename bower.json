@@ -6,10 +6,10 @@
     "url": "git://github.com/corteszeduardo/angular-chosen.git"
   },
   "main": [
-    "dist2/chosen.css",
-    "dist2/chosen-spinner.css",
-    "dist2/chosen.jquery.js",
-    "dist2/angular-chosen.js"
+    "dist/chosen.css",
+    "dist/chosen-spinner.css",
+    "dist/chosen.jquery.js",
+    "dist/angular-chosen.js"
   ],
   "dependencies": {
     "jquery": "^2.0.3",
