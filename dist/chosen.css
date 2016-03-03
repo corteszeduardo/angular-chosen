@@ -39,7 +39,8 @@
   display: block;
   overflow: hidden;
   padding: 0 0 0 8px;
-  height: 23px;
+  /* Eduardo */
+  /*height: 23px;*/
   border: 1px solid #aaa;
   border-radius: 5px;
   background-color: #fff;
